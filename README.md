@@ -1,4 +1,3 @@
-<title> Keep walking</title>
 
 <!--
 **ZahraK02/ZahraK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
