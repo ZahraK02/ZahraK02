@@ -1,4 +1,5 @@
 # Keep walking
+<img src="https://www.google.com/imgres?imgurl=https://media.tenor.com/LbEAjAL46bMAAAAj/perry-the-platypus.gif&imgrefurl=https://tenor.com/view/perry-the-platypus-gif-3292413403929831859&h=81&w=200&tbnid=PzRkGxyJjX_L2M&source=sa.im&usg=AI4_-kRPnazdFz3U5ipp019P6Fk42E2nZA&vet=1&docid=lIrBHVrKYF5uAM">
 <!--
 **ZahraK02/ZahraK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
