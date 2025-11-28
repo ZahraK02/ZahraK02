@@ -1,5 +1,6 @@
-# Keep walking Grrrrr
-<img src="perry.png" width="150">
+<h2 align="center"> Keep walking Grrrrr
+</h2>
+<img src="perry.png" width="150" style="display: block; margin:0 auto;">
 <!--
 **ZahraK02/ZahraK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
