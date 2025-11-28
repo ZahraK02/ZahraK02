@@ -1,5 +1,5 @@
 # Keep walking Grrrrr
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-qkckf&psig=AOvVaw28H2snINwLH7b-srI6OlIZ&ust=1764436217905000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjPl9-slZEDFQAAAAAdAAAAABAh">
+<img src="https://www.google.com/imgres?imgurl=https://media.tenor.com/LbEAjAL46bMAAAAj/perry-the-platypus.gif&imgrefurl=https://tenor.com/view/perry-the-platypus-gif-3292413403929831859&h=81&w=200&tbnid=PzRkGxyJjX_L2M&source=sa.im&usg=AI4_-kRPnazdFz3U5ipp019P6Fk42E2nZA&vet=1&docid=lIrBHVrKYF5uAM#imgrc=R0smffFNWyLKWM&imgdii=HaWG1BCLQ_jJAM">
 <!--
 **ZahraK02/ZahraK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
